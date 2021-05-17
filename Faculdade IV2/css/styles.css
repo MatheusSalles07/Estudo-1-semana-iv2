@@ -1,0 +1,13 @@
+style
+  #paragrafo {
+    color: white;
+  }
+
+  #intro {
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    margin: 1cm;
+
+  }
+  
