@@ -1,0 +1,8 @@
+ul {
+  list-style: none; /* Essa opção remove o marcador*/
+  list-style: decimal; /* Essa coloca números (1, 2, 3) como marcador*/
+  list-style: circle; /*Essa opçao coloca um circulo como marcador*/
+  list-style: square; /*Essa opçao coloca um quadrado como marcador*/
+  list-style: upper-alpha; /*Essa opçao coloca letras maiúsculas como marcador*/
+  list-style: upper-roman; /*Essa opçao coloca algarismos romanos maiúsculos como marcador*/
+}
